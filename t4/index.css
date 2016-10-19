@@ -5,7 +5,7 @@
   left: auto;
   bottom: 0;
   right: 0;
-  background: #111 url(http://images.pf.techmov.co/restaurants/quiznos/galleta-avena-pasas/image_web.jpeg) 245px 45px no-repeat;
+  background: #111 url(image_web.jpeg) 245px 45px no-repeat;
 }
 .cookie-message p { color: #FFF }
 .cookie-message a { color: #2AF }
